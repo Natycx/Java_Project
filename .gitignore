@@ -20,6 +20,7 @@ target/
 *.iws
 *.ipr
 .idea/
+out/
 
 # OS
 .DS_Store

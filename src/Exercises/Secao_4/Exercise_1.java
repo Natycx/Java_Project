@@ -2,7 +2,7 @@ package Exercises.Secao_4;
 
 import java.util.Scanner;
 
-public class Exercises_1 {
+public class Exercise_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
